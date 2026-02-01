@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Ryan, I am a Machine Learning and AI fanatic.
+
+I'm always looking for new ways to improve and take up projects whenever I can.
+
+My tech stack is mostly Python, but I am versed in C# and Kotlin. My favorite tools are libraries like Sklearn, Numpy and Pandas.
+
+You can reach me through my LinkedIn, which I have listed on my profile.
