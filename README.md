@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Ryan, and I am a Machine Learning and AI coder 😄.
 
-My tech stack is mainly Python, but I am also versed in C# and Kotlin (although not as well as Python). My favorite tools are libraries like Sklearn, Numpy and Pandas.
+My tech stack is mainly Python, but I am also versed in C# and Kotlin (although not as well as Python). My favorite tools are libraries like Sklearn, PyTorch and MatPlotLib.
 
 I'm always looking for new ways to improve, so I usually take up projects whenever I can.
 
