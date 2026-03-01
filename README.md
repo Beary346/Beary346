@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ryan, and I am a Machine Learning and AI coder 😄.
+My name is Ryan, and I am an AI coder 😄.
 
 My tech stack is mainly Python, but I am also versed in C# and Kotlin (although not as well as Python). My favorite tools are libraries like Sklearn, PyTorch and MatPlotLib.
 
