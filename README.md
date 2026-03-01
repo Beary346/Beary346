@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ryan, and I am an AI coder 😄.
+My name is Ryan, and I am an AI coder.
 
-My tech stack is mainly Python, but I am also versed in C# and Kotlin (although not as well as Python). My favorite tools are libraries like Sklearn, PyTorch and MatPlotLib.
+The language I use mainly is Python. My favorite tools are libraries like Sklearn, PyTorch and MatPlotLib.
 
-I'm always looking for new ways to improve, so I usually take up projects whenever I can.
+I'm always looking for new ways to learn and improve, so I usually take up projects whenever I can.
 
 You can reach me through my LinkedIn, which I have listed on my profile.
