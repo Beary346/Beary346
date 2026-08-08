@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ryan, and I am an AI coder.
+My name is Ryan, and I am an MLOps coder.
 
-The language I use mainly is Python. My favorite tools are libraries like Sklearn, PyTorch and MatPlotLib.
+The language I use mainly is Python. My stack includes libraries such as OpenCV, Numpy, Pandas, Seaborn, Jupyter Notebook, and SkLearn.
 
 I'm always looking for new ways to learn and improve, so I usually take up projects whenever I can.
 
